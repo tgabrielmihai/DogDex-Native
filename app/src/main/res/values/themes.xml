@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme: a Material3 theme that lets Compose drive the actual colors.
+         We disable the action bar because the UI is fully Compose-driven. -->
+    <style name="Theme.DogDex" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
